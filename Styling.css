@@ -1,0 +1,47 @@
+boby{
+	background: gray;
+}
+h1{
+	border:2px solidt;
+	border-color:red ;
+	border-width:4px 
+	border-radius: 30px;
+}.ICT{
+	color: blue;
+}
+p{font-family:AL;
+	front-size
+
+}DIV{
+	margin-left:40PX ;
+	margin-right:40PX;
+	margin-bottom:20PX;
+	margin-top:29PX ;
+	border: 15PX solid green;
+	padding-left: 20PX;
+	padding-right: 20PX;
+	padding-top: 20PX;
+	padding-bottom: 20PX;
+}
+A{
+color: yellow;
+background: black;
+text-decoration: none;
+}
+A:hover{
+	color: yellow;
+	background :red;
+}
+A:VISITED{
+	color: white;
+}
+ol{
+	color: blue;
+	front-family:LUCIDA HANDER;
+	margin-left: 300PX;
+}
+TABIE,TR,TH,TD{
+	border: 2PX solid;
+	border-radius: 30PX;
+}
+
